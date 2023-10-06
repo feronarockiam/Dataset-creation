@@ -1,0 +1,501 @@
+StockID,ProductName,StockCategory,InStock(Units)
+1,TV,Electronics,120
+2,Shoes,Clothing,85
+3,Gaming Console,Electronics,72
+4,Art Supplies,Toys,58
+5,Mobile,Electronics,105
+6,Hat,Clothing,56
+7,LEGO Set,Toys,189
+8,Toaster,Home Appliances,164
+9,Remote Control Car,Toys,51
+10,Hoodie,Clothing,137
+11,Eggs,Groceries,105
+12,Bread,Groceries,73
+13,Washing Machine,Home Appliances,141
+14,Canned Food,Groceries,117
+15,Speaker,Electronics,187
+16,Smartwatch,Electronics,70
+17,Remote Control Car,Toys,142
+18,LEGO Set,Toys,67
+19,Headphones,Electronics,124
+20,Headphones,Electronics,75
+21,Coffee Maker,Home Appliances,166
+22,Eggs,Groceries,144
+23,Rice,Groceries,118
+24,Monitor,Electronics,93
+25,LEGO Set,Toys,91
+26,Iron,Home Appliances,119
+27,LEGO Set,Toys,133
+28,Headphones,Electronics,58
+29,Fruits,Groceries,118
+30,Headphones,Electronics,195
+31,Rice,Groceries,177
+32,Vacuum Cleaner,Home Appliances,86
+33,Eggs,Groceries,113
+34,Building Blocks,Toys,117
+35,Art Supplies,Toys,199
+36,Blender,Home Appliances,106
+37,Hat,Clothing,176
+38,TV,Electronics,78
+39,Dress,Clothing,158
+40,Board Game,Toys,148
+41,Vacuum Cleaner,Home Appliances,185
+42,Snacks,Groceries,52
+43,Gaming Console,Electronics,118
+44,Bread,Groceries,125
+45,Microwave,Home Appliances,166
+46,Camera,Electronics,178
+47,Hat,Clothing,77
+48,Snacks,Groceries,100
+49,Sweater,Clothing,91
+50,Building Blocks,Toys,50
+51,Puzzle,Toys,175
+52,Mobile,Electronics,142
+53,Rice,Groceries,64
+54,Skirt,Clothing,70
+55,Speaker,Electronics,67
+56,Doll,Toys,82
+57,Microwave,Home Appliances,117
+58,Toy Car,Toys,158
+59,Hat,Clothing,101
+60,Fruits,Groceries,145
+61,Vacuum Cleaner,Home Appliances,80
+62,Shoes,Clothing,66
+63,Milk,Groceries,200
+64,LEGO Set,Toys,200
+65,T-Shirt,Clothing,68
+66,Headphones,Electronics,67
+67,Tablet,Electronics,68
+68,LEGO Set,Toys,121
+69,Toaster,Home Appliances,188
+70,Skirt,Clothing,197
+71,Toaster,Home Appliances,171
+72,Toaster,Home Appliances,74
+73,Smartwatch,Electronics,140
+74,Iron,Home Appliances,169
+75,Mobile,Electronics,65
+76,Blender,Home Appliances,77
+77,Shoes,Clothing,98
+78,Plush Toy,Toys,85
+79,Microwave,Home Appliances,121
+80,Toaster,Home Appliances,69
+81,Washing Machine,Home Appliances,62
+82,Action Figure,Toys,73
+83,Dress,Clothing,154
+84,Vacuum Cleaner,Home Appliances,104
+85,Refrigerator,Home Appliances,92
+86,Refrigerator,Home Appliances,149
+87,Vegetables,Groceries,123
+88,Vacuum Cleaner,Home Appliances,89
+89,Jacket,Clothing,105
+90,Monitor,Electronics,188
+91,Tablet,Electronics,64
+92,Monitor,Electronics,172
+93,Building Blocks,Toys,90
+94,Gaming Console,Electronics,70
+95,Jeans,Clothing,67
+96,Hoodie,Clothing,80
+97,LEGO Set,Toys,198
+98,Action Figure,Toys,70
+99,Blender,Home Appliances,116
+100,Sweater,Clothing,111
+101,Fruits,Groceries,83
+102,Vegetables,Groceries,130
+103,TV,Electronics,167
+104,Toy Car,Toys,75
+105,Gaming Console,Electronics,104
+106,Remote Control Car,Toys,83
+107,Bread,Groceries,112
+108,Cereal,Groceries,90
+109,Coffee Maker,Home Appliances,185
+110,Gaming Console,Electronics,126
+111,Laptop,Electronics,117
+112,Mobile,Electronics,191
+113,Jacket,Clothing,122
+114,LEGO Set,Toys,137
+115,Jacket,Clothing,179
+116,Coffee Maker,Home Appliances,63
+117,Smartwatch,Electronics,120
+118,TV,Electronics,135
+119,Jacket,Clothing,91
+120,Iron,Home Appliances,193
+121,Mobile,Electronics,69
+122,Hat,Clothing,59
+123,Canned Food,Groceries,191
+124,Hoodie,Clothing,82
+125,Camera,Electronics,143
+126,Tablet,Electronics,103
+127,Jeans,Clothing,140
+128,Art Supplies,Toys,89
+129,Dress,Clothing,95
+130,Refrigerator,Home Appliances,95
+131,Fruits,Groceries,113
+132,Eggs,Groceries,77
+133,Refrigerator,Home Appliances,170
+134,Shoes,Clothing,167
+135,Cereal,Groceries,108
+136,T-Shirt,Clothing,99
+137,Blender,Home Appliances,121
+138,Camera,Electronics,139
+139,Art Supplies,Toys,187
+140,Milk,Groceries,79
+141,Eggs,Groceries,198
+142,Milk,Groceries,77
+143,Art Supplies,Toys,138
+144,Fruits,Groceries,180
+145,Smartwatch,Electronics,197
+146,Jacket,Clothing,61
+147,Refrigerator,Home Appliances,183
+148,LEGO Set,Toys,143
+149,Washing Machine,Home Appliances,134
+150,Puzzle,Toys,81
+151,Snacks,Groceries,129
+152,Blender,Home Appliances,153
+153,Snacks,Groceries,82
+154,Hoodie,Clothing,147
+155,Skirt,Clothing,195
+156,Fruits,Groceries,190
+157,Camera,Electronics,123
+158,Hoodie,Clothing,198
+159,Puzzle,Toys,169
+160,Vacuum Cleaner,Home Appliances,104
+161,Plush Toy,Toys,93
+162,Camera,Electronics,181
+163,Puzzle,Toys,73
+164,Jacket,Clothing,107
+165,Dress,Clothing,56
+166,Headphones,Electronics,171
+167,Board Game,Toys,166
+168,Toaster,Home Appliances,148
+169,Iron,Home Appliances,112
+170,T-Shirt,Clothing,77
+171,Toaster,Home Appliances,95
+172,Plush Toy,Toys,62
+173,LEGO Set,Toys,81
+174,Microwave,Home Appliances,168
+175,Building Blocks,Toys,131
+176,Iron,Home Appliances,190
+177,Microwave,Home Appliances,171
+178,Coffee Maker,Home Appliances,113
+179,Snacks,Groceries,174
+180,Jacket,Clothing,162
+181,Camera,Electronics,110
+182,Pasta,Groceries,131
+183,Board Game,Toys,85
+184,Shoes,Clothing,148
+185,Shoes,Clothing,66
+186,Iron,Home Appliances,134
+187,Plush Toy,Toys,156
+188,Headphones,Electronics,157
+189,Refrigerator,Home Appliances,197
+190,Vacuum Cleaner,Home Appliances,51
+191,Cereal,Groceries,149
+192,Toaster,Home Appliances,174
+193,Jacket,Clothing,161
+194,Refrigerator,Home Appliances,149
+195,Fruits,Groceries,92
+196,Microwave,Home Appliances,186
+197,Smartwatch,Electronics,194
+198,Mobile,Electronics,159
+199,Socks,Clothing,96
+200,Camera,Electronics,147
+201,Rice,Groceries,166
+202,Pasta,Groceries,147
+203,Fruits,Groceries,114
+204,Speaker,Electronics,54
+205,Action Figure,Toys,139
+206,Jeans,Clothing,60
+207,Headphones,Electronics,101
+208,Monitor,Electronics,89
+209,Dress,Clothing,171
+210,Monitor,Electronics,105
+211,Coffee Maker,Home Appliances,144
+212,Skirt,Clothing,79
+213,Jacket,Clothing,77
+214,Action Figure,Toys,129
+215,Art Supplies,Toys,151
+216,Jeans,Clothing,112
+217,Camera,Electronics,80
+218,Action Figure,Toys,138
+219,Art Supplies,Toys,144
+220,Gaming Console,Electronics,137
+221,Smartwatch,Electronics,175
+222,Smartwatch,Electronics,142
+223,Microwave,Home Appliances,161
+224,Hat,Clothing,119
+225,Building Blocks,Toys,173
+226,Iron,Home Appliances,118
+227,Rice,Groceries,72
+228,Vegetables,Groceries,112
+229,Iron,Home Appliances,136
+230,Speaker,Electronics,133
+231,Socks,Clothing,104
+232,Cereal,Groceries,137
+233,Canned Food,Groceries,120
+234,Action Figure,Toys,182
+235,Jeans,Clothing,111
+236,Vacuum Cleaner,Home Appliances,192
+237,Socks,Clothing,175
+238,Refrigerator,Home Appliances,73
+239,Rice,Groceries,153
+240,Jacket,Clothing,198
+241,Vegetables,Groceries,191
+242,Puzzle,Toys,158
+243,Puzzle,Toys,140
+244,Coffee Maker,Home Appliances,128
+245,Rice,Groceries,80
+246,Sweater,Clothing,80
+247,Doll,Toys,99
+248,Socks,Clothing,120
+249,Building Blocks,Toys,122
+250,Headphones,Electronics,125
+251,Sweater,Clothing,95
+252,Milk,Groceries,186
+253,Jacket,Clothing,61
+254,Gaming Console,Electronics,124
+255,Socks,Clothing,76
+256,Monitor,Electronics,122
+257,Vacuum Cleaner,Home Appliances,162
+258,Eggs,Groceries,63
+259,Vegetables,Groceries,79
+260,Smartwatch,Electronics,175
+261,Monitor,Electronics,63
+262,Dress,Clothing,194
+263,Bread,Groceries,113
+264,Gaming Console,Electronics,156
+265,Toy Car,Toys,107
+266,Art Supplies,Toys,165
+267,Coffee Maker,Home Appliances,200
+268,Coffee Maker,Home Appliances,195
+269,Action Figure,Toys,75
+270,Shoes,Clothing,117
+271,Laptop,Electronics,111
+272,Hat,Clothing,69
+273,T-Shirt,Clothing,154
+274,Vacuum Cleaner,Home Appliances,124
+275,Headphones,Electronics,123
+276,Vegetables,Groceries,68
+277,Jacket,Clothing,200
+278,Hoodie,Clothing,79
+279,LEGO Set,Toys,88
+280,Eggs,Groceries,68
+281,Laptop,Electronics,128
+282,Toy Car,Toys,123
+283,Washing Machine,Home Appliances,169
+284,Fruits,Groceries,119
+285,Building Blocks,Toys,176
+286,Washing Machine,Home Appliances,60
+287,Blender,Home Appliances,114
+288,Mobile,Electronics,108
+289,Toy Car,Toys,55
+290,Canned Food,Groceries,60
+291,Socks,Clothing,182
+292,Coffee Maker,Home Appliances,96
+293,Art Supplies,Toys,175
+294,Speaker,Electronics,139
+295,Blender,Home Appliances,132
+296,Laptop,Electronics,134
+297,Vacuum Cleaner,Home Appliances,123
+298,Refrigerator,Home Appliances,166
+299,Tablet,Electronics,114
+300,Bread,Groceries,153
+301,Action Figure,Toys,188
+302,Iron,Home Appliances,63
+303,Hat,Clothing,142
+304,Plush Toy,Toys,163
+305,Headphones,Electronics,118
+306,Doll,Toys,123
+307,Vacuum Cleaner,Home Appliances,81
+308,Monitor,Electronics,111
+309,Jacket,Clothing,191
+310,Gaming Console,Electronics,154
+311,Headphones,Electronics,79
+312,Washing Machine,Home Appliances,89
+313,Coffee Maker,Home Appliances,180
+314,Fruits,Groceries,173
+315,Toaster,Home Appliances,166
+316,Doll,Toys,148
+317,Skirt,Clothing,180
+318,Jeans,Clothing,120
+319,Blender,Home Appliances,179
+320,Milk,Groceries,122
+321,Canned Food,Groceries,198
+322,Microwave,Home Appliances,164
+323,Plush Toy,Toys,138
+324,Snacks,Groceries,189
+325,Vacuum Cleaner,Home Appliances,132
+326,Shoes,Clothing,196
+327,Toaster,Home Appliances,155
+328,Tablet,Electronics,171
+329,Iron,Home Appliances,88
+330,Refrigerator,Home Appliances,82
+331,Toy Car,Toys,134
+332,Speaker,Electronics,75
+333,Plush Toy,Toys,53
+334,Hoodie,Clothing,89
+335,Speaker,Electronics,117
+336,Canned Food,Groceries,151
+337,Tablet,Electronics,186
+338,Blender,Home Appliances,174
+339,Action Figure,Toys,67
+340,Jacket,Clothing,108
+341,Smartwatch,Electronics,75
+342,Speaker,Electronics,92
+343,Milk,Groceries,61
+344,Milk,Groceries,125
+345,Pasta,Groceries,160
+346,Shoes,Clothing,185
+347,Microwave,Home Appliances,93
+348,Jeans,Clothing,147
+349,LEGO Set,Toys,177
+350,Doll,Toys,109
+351,Coffee Maker,Home Appliances,167
+352,Milk,Groceries,169
+353,Snacks,Groceries,90
+354,Speaker,Electronics,138
+355,Remote Control Car,Toys,158
+356,Vegetables,Groceries,127
+357,Hoodie,Clothing,173
+358,Headphones,Electronics,147
+359,Puzzle,Toys,197
+360,Cereal,Groceries,55
+361,Coffee Maker,Home Appliances,52
+362,Action Figure,Toys,177
+363,Rice,Groceries,140
+364,Shoes,Clothing,114
+365,Jeans,Clothing,60
+366,Vegetables,Groceries,58
+367,Puzzle,Toys,83
+368,Camera,Electronics,133
+369,Microwave,Home Appliances,101
+370,Hat,Clothing,143
+371,Building Blocks,Toys,119
+372,Jacket,Clothing,173
+373,Pasta,Groceries,79
+374,Washing Machine,Home Appliances,86
+375,Hoodie,Clothing,192
+376,Bread,Groceries,151
+377,Camera,Electronics,187
+378,Speaker,Electronics,144
+379,Canned Food,Groceries,147
+380,Bread,Groceries,109
+381,Refrigerator,Home Appliances,193
+382,Canned Food,Groceries,106
+383,Speaker,Electronics,127
+384,Washing Machine,Home Appliances,85
+385,TV,Electronics,127
+386,Washing Machine,Home Appliances,74
+387,Hat,Clothing,84
+388,Vacuum Cleaner,Home Appliances,144
+389,Art Supplies,Toys,200
+390,Hoodie,Clothing,75
+391,Iron,Home Appliances,121
+392,Tablet,Electronics,105
+393,Vacuum Cleaner,Home Appliances,110
+394,Bread,Groceries,144
+395,Puzzle,Toys,65
+396,Coffee Maker,Home Appliances,98
+397,Speaker,Electronics,73
+398,Skirt,Clothing,55
+399,Tablet,Electronics,112
+400,Skirt,Clothing,102
+401,Gaming Console,Electronics,103
+402,LEGO Set,Toys,109
+403,Eggs,Groceries,50
+404,Eggs,Groceries,83
+405,Remote Control Car,Toys,94
+406,TV,Electronics,83
+407,Tablet,Electronics,110
+408,Puzzle,Toys,54
+409,Jacket,Clothing,63
+410,Hoodie,Clothing,184
+411,Mobile,Electronics,171
+412,Blender,Home Appliances,181
+413,Board Game,Toys,165
+414,LEGO Set,Toys,61
+415,Remote Control Car,Toys,167
+416,TV,Electronics,172
+417,Iron,Home Appliances,77
+418,Vacuum Cleaner,Home Appliances,68
+419,Tablet,Electronics,87
+420,Laptop,Electronics,120
+421,Toy Car,Toys,190
+422,Fruits,Groceries,185
+423,Vegetables,Groceries,179
+424,Art Supplies,Toys,75
+425,Gaming Console,Electronics,105
+426,Vacuum Cleaner,Home Appliances,108
+427,Blender,Home Appliances,166
+428,Iron,Home Appliances,74
+429,Fruits,Groceries,130
+430,Pasta,Groceries,89
+431,Washing Machine,Home Appliances,73
+432,Mobile,Electronics,160
+433,Tablet,Electronics,83
+434,Action Figure,Toys,200
+435,Building Blocks,Toys,134
+436,Smartwatch,Electronics,140
+437,Refrigerator,Home Appliances,123
+438,Remote Control Car,Toys,140
+439,Monitor,Electronics,179
+440,Dress,Clothing,173
+441,Jeans,Clothing,139
+442,Puzzle,Toys,79
+443,Canned Food,Groceries,107
+444,Refrigerator,Home Appliances,118
+445,Laptop,Electronics,119
+446,Pasta,Groceries,139
+447,Laptop,Electronics,86
+448,Art Supplies,Toys,67
+449,T-Shirt,Clothing,73
+450,LEGO Set,Toys,146
+451,Vacuum Cleaner,Home Appliances,137
+452,Sweater,Clothing,129
+453,Canned Food,Groceries,71
+454,Laptop,Electronics,90
+455,Action Figure,Toys,70
+456,Vegetables,Groceries,158
+457,Vacuum Cleaner,Home Appliances,156
+458,Rice,Groceries,181
+459,Tablet,Electronics,160
+460,Camera,Electronics,174
+461,Remote Control Car,Toys,61
+462,Hoodie,Clothing,64
+463,Headphones,Electronics,127
+464,Dress,Clothing,115
+465,Pasta,Groceries,80
+466,Speaker,Electronics,160
+467,Dress,Clothing,147
+468,LEGO Set,Toys,178
+469,Puzzle,Toys,68
+470,Refrigerator,Home Appliances,161
+471,Speaker,Electronics,69
+472,Canned Food,Groceries,159
+473,Art Supplies,Toys,156
+474,Bread,Groceries,153
+475,Tablet,Electronics,93
+476,Plush Toy,Toys,142
+477,Smartwatch,Electronics,77
+478,Hoodie,Clothing,200
+479,Washing Machine,Home Appliances,151
+480,Pasta,Groceries,106
+481,Eggs,Groceries,69
+482,Board Game,Toys,185
+483,LEGO Set,Toys,139
+484,Eggs,Groceries,110
+485,Laptop,Electronics,115
+486,Dress,Clothing,89
+487,Laptop,Electronics,176
+488,Vacuum Cleaner,Home Appliances,194
+489,Puzzle,Toys,130
+490,Socks,Clothing,67
+491,Vacuum Cleaner,Home Appliances,127
+492,Canned Food,Groceries,64
+493,Snacks,Groceries,68
+494,Vegetables,Groceries,165
+495,TV,Electronics,144
+496,Bread,Groceries,73
+497,Toy Car,Toys,179
+498,Vacuum Cleaner,Home Appliances,198
+499,Action Figure,Toys,165
+500,LEGO Set,Toys,132

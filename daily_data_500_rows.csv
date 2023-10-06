@@ -1,0 +1,501 @@
+UserID,ProductName,ProductCategory,TimeSpentOnCounter
+1,Microwave,Home Appliances,16.94
+2,Hoodie,Clothing,7.23
+3,Mobile,Electronics,12.83
+4,Eggs,Groceries,14.57
+5,Dress,Clothing,6.71
+6,Action Figure,Toys,20.26
+7,Socks,Clothing,13.78
+8,Dress,Clothing,28.0
+9,Plush Toy,Toys,26.5
+10,Mobile,Electronics,8.5
+11,Monitor,Electronics,23.25
+12,Fruits,Groceries,12.86
+13,Shoes,Clothing,11.92
+14,Headphones,Electronics,18.83
+15,Toy Car,Toys,12.12
+16,Camera,Electronics,10.14
+17,Building Blocks,Toys,9.72
+18,Coffee Maker,Home Appliances,21.15
+19,Socks,Clothing,14.65
+20,Socks,Clothing,20.95
+21,Gaming Console,Electronics,27.22
+22,Tablet,Electronics,28.35
+23,Hoodie,Clothing,26.52
+24,Art Supplies,Toys,14.14
+25,Socks,Clothing,28.86
+26,TV,Electronics,19.68
+27,Camera,Electronics,10.39
+28,Smartwatch,Electronics,17.67
+29,Art Supplies,Toys,15.59
+30,Washing Machine,Home Appliances,21.01
+31,Toy Car,Toys,8.82
+32,Camera,Electronics,6.98
+33,Dress,Clothing,18.41
+34,Washing Machine,Home Appliances,12.75
+35,Toaster,Home Appliances,6.45
+36,Smartwatch,Electronics,7.9
+37,Toy Car,Toys,6.38
+38,Jeans,Clothing,5.32
+39,T-Shirt,Clothing,9.1
+40,Snacks,Groceries,17.93
+41,Eggs,Groceries,14.3
+42,Bread,Groceries,24.29
+43,Tablet,Electronics,25.18
+44,Snacks,Groceries,6.6
+45,Board Game,Toys,17.4
+46,Puzzle,Toys,6.39
+47,Doll,Toys,14.19
+48,Bread,Groceries,27.36
+49,Headphones,Electronics,23.52
+50,TV,Electronics,26.47
+51,Headphones,Electronics,6.15
+52,Fruits,Groceries,28.01
+53,T-Shirt,Clothing,18.82
+54,Toaster,Home Appliances,13.05
+55,Blender,Home Appliances,11.78
+56,Monitor,Electronics,14.32
+57,Action Figure,Toys,9.48
+58,Action Figure,Toys,28.85
+59,Speaker,Electronics,26.65
+60,Pasta,Groceries,7.16
+61,Refrigerator,Home Appliances,14.22
+62,Canned Food,Groceries,24.61
+63,LEGO Set,Toys,16.6
+64,Plush Toy,Toys,29.94
+65,Hat,Clothing,24.01
+66,Dress,Clothing,5.16
+67,Refrigerator,Home Appliances,10.82
+68,Milk,Groceries,28.77
+69,Smartwatch,Electronics,26.23
+70,Bread,Groceries,10.13
+71,Hoodie,Clothing,17.3
+72,Laptop,Electronics,22.79
+73,TV,Electronics,28.03
+74,Art Supplies,Toys,22.52
+75,Vegetables,Groceries,29.36
+76,Monitor,Electronics,7.39
+77,Hoodie,Clothing,6.87
+78,Action Figure,Toys,15.87
+79,Shoes,Clothing,12.29
+80,Fruits,Groceries,22.52
+81,Pasta,Groceries,16.32
+82,Jeans,Clothing,28.59
+83,Skirt,Clothing,7.72
+84,Laptop,Electronics,16.24
+85,Fruits,Groceries,8.02
+86,Rice,Groceries,16.3
+87,Coffee Maker,Home Appliances,26.31
+88,Laptop,Electronics,25.19
+89,Canned Food,Groceries,6.01
+90,Eggs,Groceries,7.28
+91,Sweater,Clothing,14.91
+92,Camera,Electronics,11.5
+93,T-Shirt,Clothing,28.8
+94,Toaster,Home Appliances,7.37
+95,Laptop,Electronics,8.04
+96,Headphones,Electronics,8.27
+97,Blender,Home Appliances,22.16
+98,Monitor,Electronics,19.65
+99,TV,Electronics,29.93
+100,Socks,Clothing,25.23
+101,Tablet,Electronics,8.06
+102,Refrigerator,Home Appliances,9.2
+103,Art Supplies,Toys,25.54
+104,Vacuum Cleaner,Home Appliances,5.74
+105,Microwave,Home Appliances,13.85
+106,Jacket,Clothing,12.0
+107,T-Shirt,Clothing,20.35
+108,LEGO Set,Toys,21.18
+109,Iron,Home Appliances,27.07
+110,Refrigerator,Home Appliances,7.19
+111,Microwave,Home Appliances,15.48
+112,LEGO Set,Toys,20.77
+113,Action Figure,Toys,29.74
+114,Vegetables,Groceries,18.61
+115,Blender,Home Appliances,27.82
+116,Puzzle,Toys,14.71
+117,T-Shirt,Clothing,12.97
+118,T-Shirt,Clothing,27.39
+119,Milk,Groceries,25.22
+120,Blender,Home Appliances,24.17
+121,Dress,Clothing,7.5
+122,Jacket,Clothing,18.34
+123,Headphones,Electronics,19.39
+124,Blender,Home Appliances,28.38
+125,Dress,Clothing,10.91
+126,Pasta,Groceries,27.85
+127,Tablet,Electronics,28.69
+128,Doll,Toys,19.08
+129,Socks,Clothing,18.55
+130,Socks,Clothing,5.95
+131,Headphones,Electronics,20.04
+132,Gaming Console,Electronics,16.95
+133,Canned Food,Groceries,10.04
+134,Sweater,Clothing,22.92
+135,Milk,Groceries,5.55
+136,Doll,Toys,24.36
+137,Puzzle,Toys,29.01
+138,Fruits,Groceries,19.65
+139,Cereal,Groceries,13.07
+140,Hoodie,Clothing,24.8
+141,Blender,Home Appliances,9.36
+142,Toy Car,Toys,24.67
+143,Skirt,Clothing,25.36
+144,Coffee Maker,Home Appliances,23.35
+145,Eggs,Groceries,9.44
+146,Monitor,Electronics,14.79
+147,Action Figure,Toys,9.55
+148,Canned Food,Groceries,10.52
+149,Board Game,Toys,28.42
+150,Sweater,Clothing,23.63
+151,Sweater,Clothing,29.56
+152,Jeans,Clothing,25.54
+153,Vegetables,Groceries,5.28
+154,Shoes,Clothing,22.33
+155,Cereal,Groceries,24.68
+156,TV,Electronics,14.65
+157,Microwave,Home Appliances,27.11
+158,Iron,Home Appliances,13.78
+159,Washing Machine,Home Appliances,25.72
+160,LEGO Set,Toys,9.07
+161,TV,Electronics,12.37
+162,Cereal,Groceries,28.79
+163,Tablet,Electronics,9.25
+164,Microwave,Home Appliances,23.3
+165,Board Game,Toys,13.45
+166,Plush Toy,Toys,22.61
+167,Microwave,Home Appliances,20.18
+168,Microwave,Home Appliances,6.34
+169,Rice,Groceries,29.36
+170,Coffee Maker,Home Appliances,21.51
+171,Rice,Groceries,7.4
+172,Vacuum Cleaner,Home Appliances,8.84
+173,Milk,Groceries,15.69
+174,Canned Food,Groceries,17.01
+175,TV,Electronics,10.17
+176,Bread,Groceries,16.84
+177,Camera,Electronics,24.62
+178,Vacuum Cleaner,Home Appliances,27.37
+179,Bread,Groceries,21.05
+180,Microwave,Home Appliances,14.28
+181,Blender,Home Appliances,9.66
+182,Camera,Electronics,15.99
+183,Rice,Groceries,25.93
+184,Action Figure,Toys,8.78
+185,Mobile,Electronics,21.7
+186,Art Supplies,Toys,29.27
+187,LEGO Set,Toys,18.84
+188,Iron,Home Appliances,29.14
+189,Toaster,Home Appliances,16.91
+190,Smartwatch,Electronics,27.57
+191,Gaming Console,Electronics,19.28
+192,Toy Car,Toys,21.94
+193,Doll,Toys,8.01
+194,Microwave,Home Appliances,28.73
+195,Shoes,Clothing,25.21
+196,T-Shirt,Clothing,15.58
+197,Toaster,Home Appliances,29.93
+198,Skirt,Clothing,11.45
+199,Mobile,Electronics,14.7
+200,Blender,Home Appliances,26.42
+201,Plush Toy,Toys,27.93
+202,Monitor,Electronics,19.69
+203,Washing Machine,Home Appliances,15.36
+204,Skirt,Clothing,19.7
+205,Mobile,Electronics,19.07
+206,Camera,Electronics,26.69
+207,Fruits,Groceries,11.6
+208,Vacuum Cleaner,Home Appliances,5.94
+209,Fruits,Groceries,8.6
+210,Art Supplies,Toys,5.97
+211,Rice,Groceries,6.23
+212,Coffee Maker,Home Appliances,27.43
+213,Tablet,Electronics,25.43
+214,Cereal,Groceries,12.01
+215,Washing Machine,Home Appliances,29.31
+216,Dress,Clothing,12.51
+217,Blender,Home Appliances,11.74
+218,Washing Machine,Home Appliances,9.7
+219,Hoodie,Clothing,23.52
+220,Puzzle,Toys,25.53
+221,Doll,Toys,6.64
+222,Art Supplies,Toys,8.39
+223,Toy Car,Toys,5.72
+224,Shoes,Clothing,25.92
+225,T-Shirt,Clothing,16.41
+226,Rice,Groceries,11.85
+227,Iron,Home Appliances,20.89
+228,TV,Electronics,11.05
+229,Vacuum Cleaner,Home Appliances,9.44
+230,Blender,Home Appliances,13.61
+231,Bread,Groceries,12.13
+232,Refrigerator,Home Appliances,9.07
+233,LEGO Set,Toys,26.43
+234,Shoes,Clothing,11.73
+235,Refrigerator,Home Appliances,26.62
+236,Speaker,Electronics,27.79
+237,Skirt,Clothing,25.02
+238,Jacket,Clothing,20.21
+239,Cereal,Groceries,15.6
+240,Blender,Home Appliances,16.47
+241,Socks,Clothing,12.55
+242,Toy Car,Toys,14.93
+243,TV,Electronics,17.79
+244,Snacks,Groceries,21.18
+245,Remote Control Car,Toys,12.46
+246,Speaker,Electronics,6.6
+247,Pasta,Groceries,26.54
+248,Cereal,Groceries,9.71
+249,LEGO Set,Toys,27.49
+250,Art Supplies,Toys,21.51
+251,T-Shirt,Clothing,21.39
+252,Cereal,Groceries,27.67
+253,Iron,Home Appliances,23.42
+254,Toy Car,Toys,25.4
+255,Rice,Groceries,22.16
+256,Blender,Home Appliances,17.68
+257,Hat,Clothing,9.53
+258,Speaker,Electronics,8.2
+259,Snacks,Groceries,24.07
+260,Sweater,Clothing,21.36
+261,Sweater,Clothing,10.58
+262,Fruits,Groceries,24.7
+263,Pasta,Groceries,11.51
+264,Vegetables,Groceries,26.28
+265,Refrigerator,Home Appliances,26.66
+266,Toy Car,Toys,28.61
+267,Speaker,Electronics,27.24
+268,Board Game,Toys,26.69
+269,Coffee Maker,Home Appliances,15.33
+270,Dress,Clothing,29.81
+271,Fruits,Groceries,29.68
+272,Microwave,Home Appliances,12.91
+273,Jeans,Clothing,17.19
+274,Sweater,Clothing,20.86
+275,Speaker,Electronics,11.84
+276,Skirt,Clothing,24.11
+277,Washing Machine,Home Appliances,8.24
+278,Iron,Home Appliances,15.08
+279,Iron,Home Appliances,5.12
+280,LEGO Set,Toys,23.27
+281,Tablet,Electronics,23.92
+282,LEGO Set,Toys,5.45
+283,Headphones,Electronics,10.66
+284,Cereal,Groceries,8.22
+285,Coffee Maker,Home Appliances,9.18
+286,Camera,Electronics,28.71
+287,Blender,Home Appliances,15.84
+288,Sweater,Clothing,29.9
+289,Blender,Home Appliances,23.75
+290,Hoodie,Clothing,5.48
+291,Dress,Clothing,10.28
+292,Monitor,Electronics,17.62
+293,Tablet,Electronics,22.78
+294,Smartwatch,Electronics,26.91
+295,Snacks,Groceries,20.58
+296,Action Figure,Toys,21.55
+297,TV,Electronics,22.24
+298,Vacuum Cleaner,Home Appliances,14.51
+299,Remote Control Car,Toys,16.86
+300,Shoes,Clothing,22.38
+301,Camera,Electronics,15.52
+302,Gaming Console,Electronics,11.75
+303,Doll,Toys,15.47
+304,Gaming Console,Electronics,22.97
+305,Camera,Electronics,7.85
+306,Speaker,Electronics,9.97
+307,Jacket,Clothing,25.79
+308,Sweater,Clothing,22.59
+309,Eggs,Groceries,5.99
+310,Toaster,Home Appliances,22.21
+311,Blender,Home Appliances,10.86
+312,Mobile,Electronics,27.67
+313,Plush Toy,Toys,8.73
+314,Gaming Console,Electronics,6.88
+315,Camera,Electronics,21.11
+316,Coffee Maker,Home Appliances,11.6
+317,Mobile,Electronics,25.33
+318,Camera,Electronics,14.01
+319,Fruits,Groceries,23.46
+320,TV,Electronics,5.24
+321,Dress,Clothing,13.22
+322,Coffee Maker,Home Appliances,26.96
+323,Tablet,Electronics,25.37
+324,Jeans,Clothing,15.02
+325,Coffee Maker,Home Appliances,25.89
+326,Iron,Home Appliances,21.22
+327,Jeans,Clothing,8.31
+328,Laptop,Electronics,7.59
+329,Plush Toy,Toys,25.06
+330,Microwave,Home Appliances,20.28
+331,Canned Food,Groceries,5.72
+332,Socks,Clothing,28.01
+333,Smartwatch,Electronics,16.02
+334,Camera,Electronics,21.37
+335,Gaming Console,Electronics,24.19
+336,Toy Car,Toys,10.6
+337,Snacks,Groceries,18.08
+338,Board Game,Toys,15.82
+339,Socks,Clothing,13.64
+340,Microwave,Home Appliances,25.98
+341,Toy Car,Toys,6.36
+342,Hat,Clothing,26.22
+343,Microwave,Home Appliances,6.87
+344,Blender,Home Appliances,11.02
+345,Milk,Groceries,17.67
+346,Art Supplies,Toys,15.08
+347,Jeans,Clothing,16.48
+348,Plush Toy,Toys,7.2
+349,Vacuum Cleaner,Home Appliances,12.9
+350,Refrigerator,Home Appliances,7.57
+351,Refrigerator,Home Appliances,18.93
+352,Mobile,Electronics,24.79
+353,Remote Control Car,Toys,27.25
+354,LEGO Set,Toys,21.36
+355,Blender,Home Appliances,14.08
+356,Headphones,Electronics,26.11
+357,Snacks,Groceries,24.19
+358,Plush Toy,Toys,22.92
+359,Vegetables,Groceries,7.85
+360,T-Shirt,Clothing,13.53
+361,Snacks,Groceries,18.05
+362,TV,Electronics,27.42
+363,Microwave,Home Appliances,25.55
+364,Washing Machine,Home Appliances,11.36
+365,Shoes,Clothing,8.02
+366,Toaster,Home Appliances,16.43
+367,Sweater,Clothing,7.69
+368,Refrigerator,Home Appliances,28.17
+369,Board Game,Toys,24.3
+370,Vacuum Cleaner,Home Appliances,21.46
+371,Doll,Toys,29.1
+372,Gaming Console,Electronics,23.41
+373,Art Supplies,Toys,25.97
+374,Microwave,Home Appliances,22.3
+375,Dress,Clothing,7.59
+376,Toy Car,Toys,27.07
+377,Art Supplies,Toys,15.47
+378,LEGO Set,Toys,11.84
+379,Cereal,Groceries,16.32
+380,Dress,Clothing,15.32
+381,Remote Control Car,Toys,26.08
+382,Puzzle,Toys,22.8
+383,LEGO Set,Toys,10.02
+384,Remote Control Car,Toys,22.17
+385,Dress,Clothing,17.6
+386,Bread,Groceries,24.02
+387,Plush Toy,Toys,19.57
+388,Coffee Maker,Home Appliances,26.94
+389,Refrigerator,Home Appliances,18.07
+390,Smartwatch,Electronics,8.63
+391,Headphones,Electronics,11.67
+392,Jacket,Clothing,22.08
+393,T-Shirt,Clothing,22.26
+394,Rice,Groceries,23.84
+395,Tablet,Electronics,25.35
+396,Monitor,Electronics,26.7
+397,LEGO Set,Toys,23.56
+398,Art Supplies,Toys,10.94
+399,Milk,Groceries,28.16
+400,Iron,Home Appliances,28.92
+401,Snacks,Groceries,6.35
+402,Rice,Groceries,20.51
+403,Toaster,Home Appliances,27.79
+404,Canned Food,Groceries,18.67
+405,LEGO Set,Toys,24.4
+406,Jacket,Clothing,16.22
+407,Laptop,Electronics,29.06
+408,Board Game,Toys,14.43
+409,Coffee Maker,Home Appliances,18.91
+410,Dress,Clothing,19.6
+411,Milk,Groceries,13.26
+412,T-Shirt,Clothing,8.84
+413,Canned Food,Groceries,6.27
+414,Remote Control Car,Toys,17.26
+415,Building Blocks,Toys,13.95
+416,Snacks,Groceries,10.5
+417,Hat,Clothing,6.7
+418,Doll,Toys,15.4
+419,Art Supplies,Toys,7.3
+420,Shoes,Clothing,21.58
+421,Pasta,Groceries,12.34
+422,Building Blocks,Toys,16.87
+423,Action Figure,Toys,7.87
+424,Vegetables,Groceries,11.01
+425,Toy Car,Toys,11.1
+426,Tablet,Electronics,14.53
+427,Smartwatch,Electronics,11.41
+428,Milk,Groceries,27.78
+429,Snacks,Groceries,25.07
+430,Vacuum Cleaner,Home Appliances,6.1
+431,Sweater,Clothing,17.85
+432,Laptop,Electronics,29.29
+433,Building Blocks,Toys,5.18
+434,Headphones,Electronics,21.76
+435,Hoodie,Clothing,25.89
+436,Hat,Clothing,25.72
+437,Washing Machine,Home Appliances,23.67
+438,T-Shirt,Clothing,16.48
+439,Milk,Groceries,7.19
+440,Laptop,Electronics,24.86
+441,Board Game,Toys,19.37
+442,Jacket,Clothing,15.19
+443,Iron,Home Appliances,15.83
+444,Smartwatch,Electronics,21.83
+445,Action Figure,Toys,21.04
+446,Board Game,Toys,23.9
+447,Action Figure,Toys,22.52
+448,Tablet,Electronics,28.2
+449,Camera,Electronics,24.67
+450,Canned Food,Groceries,7.16
+451,Iron,Home Appliances,14.88
+452,Speaker,Electronics,8.91
+453,Dress,Clothing,23.67
+454,Remote Control Car,Toys,29.0
+455,Jacket,Clothing,21.93
+456,Milk,Groceries,18.84
+457,Doll,Toys,8.08
+458,Monitor,Electronics,19.92
+459,Building Blocks,Toys,28.67
+460,Rice,Groceries,23.71
+461,Rice,Groceries,15.32
+462,Doll,Toys,9.02
+463,Skirt,Clothing,25.87
+464,Jeans,Clothing,9.53
+465,Action Figure,Toys,26.28
+466,Plush Toy,Toys,21.12
+467,Camera,Electronics,21.79
+468,Bread,Groceries,9.94
+469,Plush Toy,Toys,28.79
+470,Eggs,Groceries,21.78
+471,Jeans,Clothing,12.13
+472,Headphones,Electronics,12.94
+473,Blender,Home Appliances,20.41
+474,Canned Food,Groceries,8.81
+475,Puzzle,Toys,25.19
+476,Microwave,Home Appliances,5.12
+477,Shoes,Clothing,22.8
+478,Coffee Maker,Home Appliances,26.0
+479,Sweater,Clothing,26.95
+480,Vacuum Cleaner,Home Appliances,13.97
+481,Vegetables,Groceries,18.79
+482,Skirt,Clothing,7.05
+483,Eggs,Groceries,27.28
+484,Jacket,Clothing,23.34
+485,Mobile,Electronics,27.3
+486,Action Figure,Toys,25.32
+487,Art Supplies,Toys,24.23
+488,T-Shirt,Clothing,18.79
+489,Building Blocks,Toys,16.8
+490,Sweater,Clothing,14.81
+491,Remote Control Car,Toys,8.35
+492,Building Blocks,Toys,7.26
+493,Snacks,Groceries,5.26
+494,Skirt,Clothing,22.1
+495,Doll,Toys,16.16
+496,Skirt,Clothing,28.72
+497,Socks,Clothing,28.48
+498,Headphones,Electronics,24.04
+499,Jeans,Clothing,11.61
+500,T-Shirt,Clothing,21.71
